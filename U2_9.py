@@ -1,4 +1,4 @@
-# Programa que verifica si la entrada es de tipo entero
+# Ejercicio 9
 
 entrada = input("Ingresa un valor: ")
 
@@ -10,3 +10,4 @@ except ValueError:
     pass
 
 print("Fin de la ejecución")
+
